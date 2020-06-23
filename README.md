@@ -1,2 +1,10 @@
 # js-clock
-simple clock using Javascript
+Simple clock using Javascript and neumorphism in the design.
+
+## Technologies Used
+
+*Javascript
+*CSS
+*HTML
+
+
